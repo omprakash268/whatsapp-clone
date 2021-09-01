@@ -1,0 +1,17 @@
+[33mcommit 34fd1da6536f2823a793f1fe799b1acc1785aa87[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Alok9868 <82724229+Alok9868@users.noreply.github.com>
+Date:   Fri Jul 23 18:49:59 2021 +0530
+
+    remove unnecessary files
+
+[33mcommit 6ef1b91ccb61e02d4381d274910c84bbd400d427[m
+Author: Alok9868 <82724229+Alok9868@users.noreply.github.com>
+Date:   Fri Jul 23 18:45:27 2021 +0530
+
+    First commit to whatsapp clone
+
+[33mcommit 19d81719f264cecc77a2b266a9ab8173a186c4f7[m
+Author: Alok9868 <82724229+Alok9868@users.noreply.github.com>
+Date:   Thu Jul 22 00:08:00 2021 +0530
+
+    Initialize project using Create React App

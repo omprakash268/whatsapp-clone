@@ -1,0 +1,81 @@
+button {
+
+    background:none;
+    margin-left: -5px;
+
+    box-shadow: 0px 0px 0px transparent;
+
+    border: 0px solid transparent;
+
+    text-shadow: 0px 0px 0px transparent;
+
+}
+
+ 
+
+button:hover {
+
+    background: none;
+
+    box-shadow: 0px 0px 0px transparent;
+
+    border: 0px solid transparent;
+
+    text-shadow: 0px 0px 0px transparent;
+
+}
+.flex-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 30px;
+}
+.status-head{
+    height: 30px;
+    width: 80px;
+    position: relative;
+    bottom: 15px;
+    left: 0px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.status-input{
+    padding: 5px;
+    border: none;
+    resize: none;
+    outline: none;
+    
+}
+.status-input:focus{
+    outline: 2px solid greenyellow;
+}
+
+.btn{
+    width: 100px !important;
+}
+.btn:hover{
+    background-color: dodgerblue !important;
+}
+.b-flex{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: row;
+    padding: 10px;
+}
+.state-us-div{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 460px;
+}
+.status-img{
+    height: 250px;
+
+}
+.emoji-div{
+    width: 60px;
+    height: 60px;
+}

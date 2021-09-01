@@ -1,0 +1,72 @@
+button {
+
+    background:none;
+    margin-left: -5px;
+
+    box-shadow: 0px 0px 0px transparent;
+
+    border: 0px solid transparent;
+
+    text-shadow: 0px 0px 0px transparent;
+
+}
+
+ 
+
+button:hover {
+
+    background: none;
+
+    box-shadow: 0px 0px 0px transparent;
+
+    border: 0px solid transparent;
+
+    text-shadow: 0px 0px 0px transparent;
+
+}
+
+.flex-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.status-center{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 50px;
+    height: 50px;
+    width: 250px;
+}
+.st-control{
+    width: 300px;
+    height: 60px;
+    margin-left:20px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.close{
+    position: absolute;
+    bottom: 5px;
+    left: 390px;
+}
+.menufriend-img{
+    height: 250px;
+}
+.modal-content{
+    position: relative !important;
+}
+.status-heading{
+    position:relative;
+    top:40px;
+    left: -75px;
+    width: 80px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.div-relative{
+    position: relative;
+}
